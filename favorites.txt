@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Spaghetti
 Pizza
 Banana
+=======
+Terminator
+Friends
+Alf
+>>>>>>> movies
